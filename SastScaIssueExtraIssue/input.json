@@ -1,0 +1,20 @@
+
+{
+    "data": {
+        "polaris": {
+            "accesstoken": "t8mj38ii950jn1brrl9qhqg8np94327rdf7kvqcgf85hsk1jfnph7fl6k3bougice9q6hvuer0dre",
+            "application": {
+                "name": "Altair_09May"
+            },
+            "project": {
+                "name": "Test-CI"
+            },
+            "assessment": {
+                "types":  ["SAST"]
+
+            },
+            "serverUrl": "https://polaris.synopsys.com"
+            
+        }
+    }
+}
