@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <!-- VULNERABILITY: Plaintext password in config file (CWE-256) -->
+        <password>admin123</password>
+        <role>administrator</role>
+    </user>
+    <user>
+        <username>jsmith</username>
+        <password>password1</password>
+        <role>user</role>
+    </user>
+</users>
